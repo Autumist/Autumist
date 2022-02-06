@@ -1,0 +1,3 @@
+- Hi, I’m @Autumist
+- 2nd Year BS Computer Science Student at University of the Philippines Manila
+- Still a nab at programming :.))
