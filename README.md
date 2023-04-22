@@ -1,3 +1,3 @@
 - Hi, I’m @Autumist
-- Incoming 3rd Year BS Computer Science Student at University of the Philippines Manila
-- Still a nab at programming :.))
+- 3rd Year BS Computer Science Student at University of the Philippines Manila
+- Majors in Statistical Computing
